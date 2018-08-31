@@ -9,7 +9,12 @@ In order to demonstrate the code's functionality a test dataset is uploaded.
 
 
 
-The used version of python is 3.6.5.
+The used versions are:
+
+- python 3.6.5
+- pandas 0.23.0
+- scikit-learn 0.19.1
+- seaborn 0.8.1
 
 
 To check which license is used open LICENSE.txt.
