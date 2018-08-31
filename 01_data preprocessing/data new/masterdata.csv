@@ -1,0 +1,76 @@
+CardID,CustID,CustID old,Title,Country,Address,PostalCode,City,Mail,BirthDate,noAd,ValidityDate,Age,Dweller
+59681386599,1601060367199,1679012029199,Female,United States,"Ap #632-5741 Dolor,  Rd.",48803,Mesa,at.iaculis.quis@feugiat.edu,1997-12-08,,2015-10-07,20.0,Rural
+55827754899,1604011635399,1666012959299,Comp.,United Kingdom,"491 Non,  Straße",I24 5VH,Neath,vulputate.nisi@vel.ca,1986-05-20,,2016-02-12,32.0,Rural
+75304280399,1604121617999,1670010426899,Male,United States,Ap #958-5543 In  St.,46453,Chicago,porttitor.interdum.Sed@eu.co.uk,1951-07-09,,2015-02-18,67.0,Rural
+44317763699,1605041917999,1631032688899,Male,United States,Ap #815-184 Sem  Straße,58575,Springfield,nunc.In.at@nec.co.uk,1968-08-17,,2013-01-22,49.0,Rural
+71754214299,1610010812799,1680060226599,Comp.,United States,Ap #685-3729 Faucibus  Av.,17587,Burlington,vel@Maurismolestie.ca,1989-12-27,,2016-01-09,28.0,Rural
+27924459899,1612012787599,1620082329399,Comp.,United Kingdom,"Postfach 469, 2101 Phasellus  St.",W91 9CN,Alloa,vehicula.et.rutrum@leoCras.ca,1947-07-07,,2013-11-09,71.0,Rural
+82364801499,1614101001599,1620100611499,Female,United Kingdom,Ap #731-1863 Donec  Straße,U0 5MQ,Manchester,Integer@tortorNunc.edu,2001-12-26,,2013-07-21,16.0,Rural
+48437596099,1614102403899,1661063064699,Female,United Kingdom,5140 Integer St.,XM65 5RY,Swadlincote,montes@malesuada.co.uk,1976-08-13,,2016-07-14,41.0,Rural
+58994904699,1615030107699,1620022863299,Male,Germany,408-6175 Dui.  St.,46085,Sangerhausen,Morbi@pedesagittisaugue.co.uk,1971-08-21,,2016-04-17,46.0,Rural
+78728477699,1617062811399,1603120729899,Female,Germany,"Postfach 255, 791 Massa  Ave",54758,Osnabrück,nec@convallisin.co.uk,1961-12-26,,2014-12-19,56.0,Rural
+48219264099,1621030698699,1630120684299,Comp.,Germany,1418 Imperdiet  Straße,32871,Luckenwalde,lacus.Cras@estNunclaoreet.co.uk,1966-06-20,,2013-08-01,52.0,Rural
+34759040699,1621030698699,1630120684299,Comp.,Germany,1418 Imperdiet  Straße,32871,Luckenwalde,lacus.Cras@estNunclaoreet.co.uk,1966-06-20,,2013-08-01,52.0,Rural
+59301418999,1622020818699,1686071056799,Male,Germany,Ap #943-8061 Et  Avenue,1936,Bremerhaven,fames.ac@Ut.com,1964-08-29,,2013-12-15,53.0,Rural
+30624301299,1625080616199,1662050581699,Male,United Kingdom,Ap #889-2603 Magna St.,J36 2NJ,Kendal,justo.Proin.non@Donecfelisorci.edu,1999-04-30,,2013-07-10,19.0,Rural
+66812863699,1625101957599,1620052961099,Comp.,United Kingdom,"302-3420 Magna,  Rd.",G5 9VX,Banchory,ultrices.mauris@vitaevelitegestas.co.uk,2001-01-30,,2016-01-08,17.0,Rural
+19302247699,1626091279299,1613062033299,Female,United States,"4656 Eget,  Av.",79053,Overland Park,ac.mattis@loremauctor.ca,1968-07-11,,2015-07-19,50.0,Rural
+38483897399,1627022057199,1689121596899,Comp.,United Kingdom,1300 Quis  Av.,U1 0SR,Haddington,aliquet.lobortis.nisi@risusDonec.ca,1972-10-10,,2015-04-19,45.0,Rural
+40804109399,1627052725299,1695062876799,Female,United States,Ap #737-8687 Fermentum  Straße,20890,Naperville,ipsum@dolor.org,1994-08-18, X,2014-02-25,23.0,Rural
+26506134899,1629050575499,1680010699799,Comp.,Germany,"Postfach 914, 3161 Aliquet  Straße",85390,Berlin,est.Mauris@urnaNunc.co.uk,1970-05-11,,2014-10-22,48.0,City
+1486109099,1631041057099,1669010478799,Female,United States,9002 Lacinia  Rd.,32293,Gulfport,morbi@tinciduntDonecvitae.edu,1978-07-02,,2016-01-18,40.0,Rural
+14374117099,1632010113199,1652041023599,Comp.,Germany,2693 Velit.  Rd.,83006,Radebeul,Nunc.mauris.elit@nequenon.ca,1967-10-09,,2016-04-07,50.0,Rural
+85567458499,1634022034099,1692052791099,Comp.,Germany,Ap #248-4982 Fames  Straße,16806,Ingelheim,a.neque.Nullam@acurna.ca,1958-10-18, X,2013-10-01,59.0,Rural
+25929476999,1636072149499,1669011976699,Comp.,Germany,Ap #875-904 Dolor.  Straße,69459,Potsdam,id.magna.et@Cumsociisnatoque.ca,1976-05-19,,2015-06-10,42.0,Rural
+69235107099,1636081379499,1662100246499,Female,United States,"Postfach 424, 7507 Molestie.  Rd.",56976,Sandy,blandit@tellus.edu,1966-07-29,,2013-08-19,52.0,Rural
+58929958299,1638072450399,1604110891599,Female,Germany,172-657 Nunc  Rd.,61860,Berlin,tellus.Nunc.lectus@lectusconvallisest.org,1967-03-31,,2013-09-30,51.0,City
+75951562599,1638072450399,1604110891599,Female,Germany,172-657 Nunc  Rd.,61860,Berlin,tellus.Nunc.lectus@lectusconvallisest.org,1967-03-31,,2013-09-30,51.0,City
+78973681999,1639012763899,1641063014599,Female,Germany,"Postfach 365, 7033 Facilisis  Ave",8536,Recklinghausen,pede.et.risus@convallis.net,1951-03-07,,2013-12-19,67.0,Rural
+14379876899,1640072467199,1602121002899,Male,Germany,"Postfach 751, 9066 A,  Straße",14753,Aschersleben,Duis.at@DonecegestasDuis.ca,1957-11-20,,2016-03-09,60.0,Rural
+43966876099,1640072467199,1602121002899,Male,Germany,"Postfach 751, 9066 A,  Straße",14753,Aschersleben,Duis.at@DonecegestasDuis.ca,1957-11-20,,2016-03-09,60.0,Rural
+12250261099,1644070584999,1625023002899,Female,Germany,"Postfach 480, 499 Dui.  St.",75809,Salzgitter,ut@ProinultricesDuis.net,1954-05-13,,2013-11-13,64.0,Rural
+98553018699,1644071748099,1648061343599,Female,United States,"519-2005 Sem,  Avenue",14554,Casper,urna.et.arcu@idmollis.org,1958-07-05,,2015-11-11,60.0,Rural
+66427326499,1645052720699,1637121959499,Female,United Kingdom,Ap #156-3368 Eu  Rd.,S62 8EE,Durness,leo.in@veliteget.co.uk,1945-01-14,,2014-03-25,73.0,Rural
+49492115699,1647082341099,1665062590699,Male,United Kingdom,"Postfach 633, 8936 Porttitor  Rd.",U3W 9BK,Fraserburgh,mollis.lectus.pede@pedeet.edu,1963-12-09,,2015-12-07,54.0,Rural
+71582711699,1647112960999,1645050467799,Female,Germany,"Postfach 564, 5011 Vulputate  Ave",26631,Eisenhüttenstadt,nascetur@Integervitaenibh.net,1991-12-29,,2014-02-05,26.0,Rural
+79903631099,1648032692999,1685092796399,Male,United States,"Postfach 171, 169 Facilisis  Av.",42489,Birmingham,Praesent.eu@Utsemper.ca,1951-09-02,,2013-08-20,66.0,Rural
+22976009399,1649072540899,1642021586399,Female,United States,"Postfach 987, 6402 Posuere,  Avenue",98829,Auburn,Quisque.tincidunt.pede@et.com,1978-07-25,,2014-10-17,40.0,Rural
+51316220799,1650022660199,1620042713699,Female,United Kingdom,Ap #132-9245 Proin  Ave,U4R 6LN,Evesham,mauris@risusatfringilla.com,1962-12-28,,2014-11-15,55.0,Rural
+32800870099,1650090155899,1645112710399,Female,United Kingdom,170-5556 Per  Avenue,I8P 9JV,Henley-on-Thames,netus@molestie.ca,1991-01-16, X,2016-07-08,27.0,Rural
+32819586299,1651092458099,1680070854699,Male,Germany,6874 Ultrices  Straße,58875,Koblenz,malesuada@lectussit.com,1983-02-22,,2015-10-21,35.0,Rural
+44777928599,1652011081399,1661092410799,Female,United Kingdom,Ap #512-4553 Interdum  Avenue,P37 2SD,Wick,ipsum.leo.elementum@temporarcu.org,1991-10-30,,2014-10-10,26.0,Rural
+6233952299,1652120836899,1654012649299,Female,United Kingdom,"259-246 Pede, St.",Z1T 1GA,Ludlow,Donec@esttemporbibendum.org,1943-07-06,,2013-12-22,75.0,Rural
+76954778599,1653070255799,1670052001799,Female,Germany,Ap #988-1953 Habitant  St.,93877,Bremen,Duis.cursus@in.com,1990-11-29,,2016-04-05,27.0,City
+99355627099,1656011653799,1673020178099,Male,United Kingdom,"Postfach 106, 4889 Ut  Avenue",MV35 6MB,Renfrew,vitae.semper@Donectempus.ca,1995-06-25,,2015-10-28,23.0,Rural
+62999140399,1658042598199,1662080343099,Male,United States,Ap #425-4688 Risus.  Rd.,43100,Spokane,Donec.vitae@ullamcorperDuiscursus.com,1949-11-01,,2013-07-24,68.0,Rural
+97820077399,1658122710099,1660072045299,Male,United Kingdom,"Ap #163-5325 Lorem,  Straße",W2 7FS,Dingwall,Pellentesque.ultricies.dignissim@odio.co.uk,1973-09-23, X,2015-09-14,44.0,Rural
+40606096099,1659041581499,1647110267399,Female,Germany,"Postfach 378, 1466 Lacus.  Avenue",26941,Hamburg,non.massa@acorci.net,1963-10-29,,2016-05-01,54.0,City
+65801188599,1661112494199,1690052387799,Male,United Kingdom,"Postfach 467, 5967 Taciti  St.",D7 2SS,Cumbernauld,eu.turpis.Nulla@aliquameros.ca,1954-07-01,,2014-09-13,64.0,Rural
+28342384899,1661112494199,1690052387799,Male,United Kingdom,"Postfach 467, 5967 Taciti  St.",D7 2SS,Cumbernauld,eu.turpis.Nulla@aliquameros.ca,1954-07-01,,2014-09-13,64.0,Rural
+91902775799,1663011530099,1634101109899,Comp.,United States,Ap #568-9171 Fusce  Av.,42846,Essex,nulla.Integer@etultrices.org,1942-07-06,,2014-01-15,76.0,Rural
+8694598599,1669081022999,1692101166299,Female,United Kingdom,"Postfach 982, 5961 Gravida  Rd.",KJ4 2LH,Denbigh,Mauris@interdum.ca,1974-12-22, X,2016-03-30,43.0,Rural
+73276427999,1670030321199,1649090139799,Female,United Kingdom,3797 Molestie  Av.,GE08 6FV,Torquay,id.risus@ultrices.ca,1946-01-22,,2014-01-26,72.0,Rural
+96338712999,1671011715899,1674091902499,Female,Germany,215-8799 In  Avenue,6827,Limbach-Oberfrohna,risus.Nunc@egestaslacinia.edu,1980-07-06,,2015-08-16,38.0,Rural
+99470078299,1672031232999,1674112880499,Male,Germany,475-4855 Donec  Av.,60025,Staßfurt,amet@turpis.edu,1946-08-31,,2013-07-29,71.0,Rural
+66736159399,1672052972699,1686061524999,Comp.,United Kingdom,"2803 Scelerisque, St.",YZ7V 7UW,Caerphilly,dictum@sociisnatoquepenatibus.co.uk,1967-08-24, X,2013-07-17,50.0,Rural
+91589091699,1673040253999,1651060962799,Female,Germany,498-156 Vel  Av.,96248,Hamburg,litora.torquent.per@lacinia.org,1986-01-15, X,2014-08-11,32.0,City
+88367561299,1673040610699,1647050376199,Comp.,United Kingdom,Ap #160-9882 Massa.  St.,TV4 9UQ,Lancaster,malesuada.Integer@in.ca,1946-03-21,,2014-03-19,72.0,Rural
+84237647199,1674112594599,1601112573399,Female,Germany,Ap #181-3931 Pellentesque St.,8112,Korbach,eget@interdumCurabiturdictum.net,1984-04-19,,2016-02-24,34.0,Rural
+92644824299,1675101876999,1661101775099,Male,United Kingdom,"Ap #422-1952 Pede, St.",Q0 8PB,Tregaron,ipsum.dolor.sit@Aliquamnecenim.co.uk,1970-08-27,,2013-03-13,47.0,Rural
+13930565999,1676093075899,1605070978599,Comp.,Germany,2971 Scelerisque  Straße,74725,Berlin,ullamcorper.viverra@nuncQuisque.org,1995-06-05, X,2013-06-27,23.0,City
+25646559499,1679041978999,1691010859299,Male,United Kingdom,7862 Amet  Av.,GX7 1DS,Annan,ante@nonegestasa.com,1948-07-13, X,2014-05-10,70.0,Rural
+72449987899,1679041978999,1691010859299,Male,United Kingdom,7862 Amet  Av.,GX7 1DS,Annan,ante@nonegestasa.com,1948-07-13, X,2014-05-10,70.0,Rural
+71548768099,1681110262999,1634091255199,Male,Germany,8269 Turpis  Straße,81834,Ravensburg,In.ornare.sagittis@per.co.uk,1955-01-15,,2013-07-05,63.0,Rural
+94365889499,1683073054699,1626021511699,Comp.,United Kingdom,Ap #364-9799 Tristique  St.,R9S 4XC,Scunthorpe,lacus.Ut.nec@ornareplaceratorci.net,1991-12-22,,2015-12-01,26.0,Rural
+66588777799,1684051320999,1618091745499,Male,United Kingdom,Ap #260-4178 Rutrum.  St.,GK0 1OX,Llanelli,metus.Aenean.sed@feugiatplaceratvelit.co.uk,1995-04-11,,2013-11-09,23.0,Rural
+26496615699,1685040880699,1610032874099,Female,United States,Ap #182-1796 Scelerisque  Rd.,56558,San Francisco,vel.convallis.in@aptenttaciti.edu,1979-09-01, X,2013-03-25,38.0,City
+6871626099,1685052923299,1636112414399,Comp.,United Kingdom,673-288 Facilisis  Rd.,RF9Q 7PF,Guildford,accumsan.laoreet.ipsum@lectus.net,1949-11-13,,2014-02-01,68.0,Rural
+79838582699,1688022838499,1678031066499,Female,Germany,"Postfach 854, 669 Fringilla  Rd.",61716,Itzehoe,nec.tempus@Suspendissenonleo.co.uk,1965-03-15,,2013-07-29,53.0,Rural
+9502970899,1689120589199,1645042061999,Comp.,United States,"Postfach 537, 6807 Tincidunt  Avenue",73635,Cedar Rapids,a@velit.ca,1951-09-02, X,2013-07-05,66.0,Rural
+47209937199,1690011532099,1692071669699,Male,United Kingdom,Ap #412-2077 Enim.  Rd.,CH4Z 1GQ,Eyemouth,convallis.dolor.Quisque@Phasellusfermentumconvallis.edu,2002-02-15,,2014-09-13,16.0,Rural
+44311294199,1691081114599,1630021802499,Comp.,Germany,696-3779 Eget St.,55502,Wolfenbüttel,erat.neque@felisorci.org,1994-02-06,,2015-01-09,24.0,Rural
+65664932099,1691111910899,1608100531899,Female,United States,Ap #374-7758 Tempor  Ave,41701,Carson City,luctus.lobortis@dictumultriciesligula.ca,1982-01-15,,2015-08-17,36.0,Rural
+31274556699,1695121920899,1685042222699,Comp.,United Kingdom,9432 Nulla  Straße,FI2 8AJ,Elgin,varius@Suspendissealiquet.org,1949-05-05,,2015-05-29,69.0,Rural
+85973721499,1696022459599,1611012637999,Female,United States,303-5547 Congue St.,31779,Cambridge,rutrum.justo@adipiscing.net,1949-08-01,,2014-07-25,68.0,Rural
+11216669699,1696042362699,1689012844799,Female,United States,"6136 Ut,  Straße",42388,Fort Worth,Etiam@metusurna.edu,1944-04-02,,2015-10-14,74.0,Rural
+16961933299,1698040467599,1669020718199,Female,Germany,"Postfach 965, 3738 Rhoncus.  Rd.",16175,Waren,hendrerit.a@facilisisnon.ca,1988-09-13,,2016-07-28,29.0,Rural
