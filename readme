@@ -1,5 +1,6 @@
 Datadriven customer segmentation with python:
 
+
 This published repository is a generalized code of my masterthesis.
 
 Aim of the thesis was to check how a model for customer segmentation model in python can look. More detailed, the value of a customer in the model is represented by the concept lfrmp which is commonly used in customer value analysis. To cluster the customers according to their lrfmp characteristics k-Means algorithm is applied.
